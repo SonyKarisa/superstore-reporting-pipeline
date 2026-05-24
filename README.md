@@ -70,6 +70,7 @@ python3 flag_orders.py
 ```
 
 Expected output:
+
 ```
 Total rows: 10194
 Flagged (unprofitable) orders: 1901
@@ -86,3 +87,9 @@ SMS sent (SID: SMxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx)
 - pandas + xlrd
 - Google Sheets API (gspread + google-auth)
 - Twilio
+
+\_\_
+
+## Twilio output
+
+![alt text](Twiliotext.PNG)
